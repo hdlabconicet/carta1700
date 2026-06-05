@@ -19,7 +19,7 @@ baseurl: "/carta1700" # the subpath of your site, e.g. /blog
 url: "https://hdlab.space" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: 
 
 # Permalinks
 permalink: pretty

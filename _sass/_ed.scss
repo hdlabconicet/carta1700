@@ -192,10 +192,11 @@ blockquote p:last-child {
 
 /* Images */
 img {
-  display: block;
+  // display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
   border-radius: 5px;
+  align-content: center;
+  text-align: center;
 }
 
 /* Tables */
@@ -537,8 +538,6 @@ div.toc {
   margin-bottom: 4rem;
 }
 
-
-
 /*
   Poem styles
 
@@ -805,4 +804,12 @@ li.prose-indent {
 .theme-base-brown .sidebar-toggle,
 .theme-base-brown .related-posts li a:hover {
   color: #8f5536;
+}
+
+img {
+  // display: block;
+  max-width: 100%;
+  border-radius: 5px;
+  align-content: center;
+  text-align: center;
 }
