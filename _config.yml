@@ -12,13 +12,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Digital Publishing Experience
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
- Digital edition of the “A Description of Buenos Ayres”, from Acarete du Biscay / 
- Edición digital de la “Descripción de Buenos Aires”, de Acarete du Biscay
-baseurl: "/group-2-project" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Carta de amor de 1700
+email: hdlabconicet@gmail.com
+description: Edición mínima de una carta de amor de 1700 escondida en un artesonado toledano
+baseurl: "/carta1700" # the subpath of your site, e.g. /blog
+url: "https://hdlab.space" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
