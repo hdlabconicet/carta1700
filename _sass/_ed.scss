@@ -145,12 +145,12 @@ p {
 
 /* Lists */
 ul {
-  list-style: circle;
+  // list-style: circle;
 }
 
 ul, ol {
   margin-top: 0;
-  margin-bottom: 1rem;
+  // margin-bottom: 1rem;
 }
 
 /* Horizontal ruler */
@@ -812,4 +812,10 @@ img {
   border-radius: 5px;
   align-content: center;
   text-align: center;
+}
+
+.no_bullet
+
+{
+  list-style-type: none;
 }
