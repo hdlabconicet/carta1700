@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="spa">
+<teiHeader>
+    <fileDesc>
+            <titleStmt>
+                <title>Carta de amor de 1700</title>
+                <author>Don Alfonso Vargas y Montes</author>
+    <editor xml:id="GDR">Gimena del Rio</editor>
+     <editor xml:id="GAC">Gabriel Alejandro Calarco</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>HD LAB</publisher>
+               <pubPlace>Buenos Aires, Argentina</pubPlace>
+        <availability>
+          <p>Se comparte bajo una licencia Creative Commons CC-BY (4.0)</p>
+          </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p>Carta de </p>
+            </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+            <creation>
+                <origDate>1700
+                        </origDate>
+            </creation>
+            <langUsage>
+                <language ident="sp">Castellano</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change when="2026-06-05" who="#GDR">Comienzo a codificar</change>
+                            </listChange>
+        </revisionDesc>
+  
+</teiHeader>
+
+<text>
+    <body>
+<div type="fragmento1">
+
+<p>
+Ya que aya merecido de manos de
+  <abbr>Vmd.</abbr>
+  <ref target="#n1" xml:id="r1">(1)</ref>
+<note type="editor"><ref target="#n1">(1)</ref>Vuestra Merced</note>
+tan gran favor es necessario que me sepa aprovechar del.<lb/>
+
+Lo primero que respondo es que yo na-<lb/>
+ci para servir pero no para mandar; lo segundo digo
+  <abbr>q.</abbr>
+el --<lb/>
+aver hecho lo que
+  <abbr>Vmd</abbr>
+me mando assido por causa d-
+no av--
+p--
+<lb/>
+y assi pido perdon de lo mal hecho. Lo tercero digo
+  <abbr>q.</abbr>
+quanto mas m-<lb/>
+cansare
+  <abbr>Vmd.</abbr>
+recibire tanto mas f-<lb/>
+vor, y he estimado mucho el favor de averme alcancado los papeles<lb/>
+y a Pepita quando
+  <abbr>Vmd.</abbr>
+la bese la dara
+dos vesos más uno por mí, y otro por
+  <abbr>Dn.</abbr>
+Juan, y como dixe en quanto ala letra no la he visto mejor de muger, y<lb/>
+lo que en cargo es que se acuerde
+  <abbr>Vmd.</abbr>
+de mí estando ausente y para
+  <abbr>q.</abbr>
+se han de gastar entre<lb/>
+los dos circunloquios porque es mi aficion tanta a
+  <abbr>Vmd.</abbr>
+que me abra-<lb/>
+so en amores, y assi querida mia digo que assi en ausencia como en presencia siempre m- ab-aso, y<lb/>
+si
+<damage>
+  <gap reason="lost" quantity="5" unit="character"/>
+</damage>
+ucho me es
+<damage>
+  <gap reason="lost" quantity="4" unit="character"/>
+</damage>
+<unclear>vd.</unclear>
+m
+<damage>
+  <gap reason="lost" quantity="4" unit="character"/>
+</damage>
+<lb/>
+mas estimo, y amo
+<damage>
+  <gap reason="lost" quantity="3" unit="character"/>
+</damage>
+<unclear>vd.</unclear>
+<damage>
+  <gap reason="lost" quantity="3" unit="character"/>
+</damage>
+<lb/>
+ver e<lb/>
+  -e priesa no se explica mas mi afectuoso amor para con
+
+    <abbr>Vmd.</abbr>
+    
+  para mañana
+  siendo Dios servido
+  espero la respuesta
+ A
+
+  <abbr>Vmd</abbr>
+
+felices siglos. Toledo y octubre, a 29 1700
+</p>
+
+<closer>
+  <signed>
+    Tu amante del coraçon
+    <lb/>
+    Don Alphonso Vargas Y Montes
+  </signed>
+</closer>
+
+
+  <salute>
+    La mi S. y querida
+    
+      <abbr>Dª</abbr>
+      
+    Mariade Sierra
+
+
+  </salute>
+</div>
+    </body>
+</text>
+</TEI>
