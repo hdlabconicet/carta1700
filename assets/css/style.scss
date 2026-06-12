@@ -71,7 +71,7 @@ tei-name {
 }
 
 tei-note {
-  display: block;
+  // display: block;
   font-size: 85%;
   text-align: justify;
   margin-top: 30px;
@@ -95,18 +95,16 @@ tei-div > tei-head {
    margin-bottom: 8px;
 }
 
-/*tei-div {
-  text-indent: 30px; /\*Te odioooooooooooooooooooooo*\/
-  }*/
+
 
 
 tei-lb {
-  display:none;
+  
   text-align: justify;
 }
 
 tei-p {
- text-indent: 15px;
+//  text-indent: 15px;
 /*  display: inline;*/
   display: block;
   margin-top: 0em;
