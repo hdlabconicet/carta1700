@@ -33,6 +33,7 @@
             <listChange>
                 <change when="2026-06-05" who="#GDR">Comienzo a codificar</change>
                 <change when="2026-06-12" who="#GAC">Sigo codificando</change>
+                <change when="2026-06-12" who="#GDR">Revisión texto</change>
             </listChange>
         </revisionDesc>
   
@@ -95,12 +96,12 @@ servido espero la respuesta<ref target="#n6" xml:id="r6">(6)</ref><lb/></p>
 </div>
 <div><p>  </p><lb/></div>
 <div type="notas">
-<note type="editor" xml:id="n1"><ref target="#r1">(1)</ref> Vuestra Merced</note><lb/>
-<note type="editor" xml:id="n2"><ref target="#r2">(2)</ref> Expresión de cortesía, con raíces medievales, pero todavía en vigencia en los albores del siglo XVIII, usada para mostrar humildad y deferencia.</note><lb/>
-<note type="editor" xml:id="n3" target="#r3"><ref>(3)</ref> Pepita: forma afectiva de Josefa, nombre propio muy común en la época.</note><lb/>
-<note type="editor" xml:id="n4"><ref target="#r4">(4)</ref> Circunloquios: rodeos o expresiones indirectas. El autor propone hablar con franqueza de sus sentimientos.</note><lb/>
-<note type="editor" xml:id="n5"><ref target="#r5">(5)</ref> AVmd felices siglos: deseo convencional de larga vida y felicidad; equivale aproximadamente a "que viva muchos años".</note><lb/>
-<note type="editor" xml:id="n6"><ref target="#r6">(6)</ref> No contamos con la respuesta, ni sabemos si efectivamente existió una.</note>
+<note type="editor" xml:id="n1"><ref target="#r1">(1)</ref> Abreviatura de Vuestra Merced, una antigua fórmula de cortesía en español que equivale a decir hoy "usted". En palabras de Covarrubias: "Merced es una cortesía usada particularmente en España, como en Italia la Señoría, que es común a cualquier hombre honrado [...], que por ser persona que merece ser honrada, la llamamos merced". Su uso se generalizó en el siglo XVI, evolucionando luego a la forma "usted". El Diccionario de Americanismos señala que en algunas zonas de América Latina, como el altiplano cundiboyacense en Colombia, aún se mantiene viva en el habla popular en formas como "sumercé".</note><lb/>
+<note type="editor" xml:id="n2"><ref target="#r2">(2)</ref> Servir y mandar son dos verbos utilizados muy frecuentemente en el discurso amoroso medieval invirtiendo la relación de vasallaje entre el señor y el vasallo, reemplazando al primero por una figura femenina. Servir significa la sumisión voluntaria del enamorado, quien se declara vasallo de su dama, mientras que mandar representa el poder absoluto y divino que ella ejerce sobre él. Esta expresión de cortesía, con raíces medievales, estaba todavía en vigencia en los albores del siglo XVIII, y es usada en la carta para mostrar humildad y deferencia ante la dama.</note><lb/>
+<note type="editor" xml:id="n3" target="#r3"><ref>(3)</ref> Pepita es la forma afectiva de Josefa, nombre propio muy común en la época.</note><lb/>
+<note type="editor" xml:id="n4"><ref target="#r4">(4)</ref> Los circunloquios son rodeos o expresiones indirectas. El autor propone evitarlos y hablar con franqueza de sus sentimientos.</note><lb/>
+<note type="editor" xml:id="n5"><ref target="#r5">(5)</ref> El pasaje AVmd felices siglos expresa un deseo de larga vida y felicidad; equivale aproximadamente a "que viva muchos años".</note><lb/>
+<note type="editor" xml:id="n6"><ref target="#r6">(6)</ref> No contamos con la respuesta de Doña María de Sierra, ni sabemos si efectivamente existió una.</note>
 </div>
     </body>
 </text>
