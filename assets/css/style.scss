@@ -127,6 +127,10 @@ p {
 
 h2 {
   text-align: center;
+  color: #5d0d0d;
+  font-family: $main-font;
+  font-size: 1.8rem;
+
 }
 
 .page-title {
@@ -145,11 +149,12 @@ color: #279711;
 }
 
 img {
-  text-align: center;
+
   max-width: 100%;
   // margin-left: 4.5rem;
   border-radius: 15px;
-  
+  align-content: center;
+  text-align: center;
 }
 
 tei-head {
@@ -161,3 +166,7 @@ li {
    text-align: justify;
    font-size: small;
  } 
+
+ .center {
+  text-align: center;
+ }
