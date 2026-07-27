@@ -192,7 +192,7 @@ blockquote p:last-child {
 
 /* Images */
 img {
-  // display: block;
+  display: block;
   max-width: 100%;
   border-radius: 5px;
   align-content: center;
@@ -226,14 +226,18 @@ tbody tr:nth-child(odd) th {
 */
 
 .masthead {
+  background:fixed;
+  background-image: url("carta_amor1.jpg");
+  background-size: cover;
   border-bottom: 1px solid #eee;
-  margin-bottom: 3rem;
-  padding-top: 26px;
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 75px;
+  padding-bottom: 1em;
   text-align: center;
 }
 
 .masthead-title {
+  display: none;
   color: #505050;
   font-family: $main-font;
   font-size: 1.8rem;
@@ -246,6 +250,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title small {
+  display: none;
   color: $text-color;
   display: none; /* This is an accessibility no-no */
   font-family: $heading-font;
@@ -807,7 +812,7 @@ li.prose-indent {
 }
 
 img {
-  // display: block;
+  display: block;
   max-width: 100%;
   border-radius: 5px;
   align-content: center;
